@@ -1,0 +1,97 @@
+p{
+    font-family: monospace;
+    font-size: 2em;
+    color: black;
+    font-weight: 700;
+}
+
+.box_size{
+    width: 450px;
+    height: 300px;
+    position: relative;
+    top: 200px;
+    margin: 0 auto;
+    border: 3px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box-small_size{
+    width: 144px;
+    height: 94px;
+    border: 3px solid black;
+    color: gre;
+}
+
+.bgc-0{
+    background-color: aquamarine;
+}
+.bgc-1{
+    background-color: red;
+}
+.bgc-2{
+    background-color: greenyellow;
+}
+.bgc-3{
+    background-color: green;
+}
+.bgc-4{
+    background-color: grey;
+}
+.bgc-5{
+    background-color: orange;
+}
+.bgc-6{
+    background-color: blue;
+}
+.bgc-7{
+    background-color: violet;
+}
+.bgc-8{
+    background-color: rgb(124, 152, 23);
+}
+
+.bgi-0{
+    background-image: url(./images/1.jpg);
+    background-size: 144px 94px;
+}
+.bgi-1{
+    background-image: url(./images/2.jpg);
+    background-size: 144px 94px;
+
+}
+.bgi-2{
+    background-image: url(./images/3.jpg);
+    background-size: 144px 94px;
+
+}
+.bgi-3{
+    background-image: url(./images/4.jpg);
+    background-size: 144px 94px;
+
+}
+.bgi-4{
+    background-image: url(./images/5.jpg);
+    background-size: 144px 94px;
+
+}
+.bgi-5{
+    background-image: url(./images/6.jpg);
+    background-size: 144px 94px;
+
+}
+.bgi-6{
+    background-image: url(./images/7.jpg);
+    background-size: 144px 94px;
+
+}
+.bgi-7{
+    background-image: url(./images/8.jpg);
+    background-size: 144px 94px;
+
+}
+.bgi-8{
+    background-image: url(./images/9.jpg);
+    background-size: 144px 94px;
+
+}
